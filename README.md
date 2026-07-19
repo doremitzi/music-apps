@@ -1,11 +1,11 @@
 # DO RE MITZI 🎵🐱
 
-Playful apps for real musical skills — built by music teacher **Galit Vashdi** as part of adapting learning tools to her students, while keeping the sense of creative freedom and play.
+Playful apps for real musical skills - built by music teacher **Galit Vashdi** as part of adapting learning tools to her students, while keeping the sense of creative freedom and play.
 
 ## The Apps
 
 ### 🐱 The Catronome™
-A metronome with the soul of a cat — and much more: paint your own rhythm patterns, switch between sound kits (clicks, drums, cymbals and cats), add swing, save your beats, and export them as MIDI or WAV.
+A metronome with the soul of a cat - and much more: paint your own rhythm patterns, switch between sound kits (clicks, drums, cymbals and cats), add swing, save your beats, and export them as MIDI or WAV.
 
 ▶ [Open The Catronome](https://doremitzi.github.io/music-apps/catronome.html)
 
@@ -16,7 +16,7 @@ Learn to recognize musical intervals with a friendly cat guide. Melodic and harm
 
 ## About
 
-- Free to use, runs entirely in the browser — no registration, no data collection.
+- Free to use, runs entirely in the browser - no registration, no data collection.
 - Works on desktop and mobile.
 - Interface in Hebrew (English coming soon).
 
